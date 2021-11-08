@@ -1,0 +1,66 @@
+@charset "ISO-8859-1";
+
+th, td {
+	
+	padding: 5px;
+	border: silver 1px solid;
+}
+
+input[type="button"], input[type="submit"] {
+	
+	width: 80px;
+	height: 40px;
+	background-color: green;
+	color: white;
+	border: none;
+	padding: 10px;
+}
+
+input[type="text"] {
+	padding: 5px;
+}
+
+select {
+	
+	padding: 7px;
+	width: 100%;
+}
+
+.meni a:link, .meni a:visited {
+  background-color: green;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.meni a:hover, .meni a:active {
+  background-color: #33cc33;
+}
+
+a.novo {
+	background-color: #ffff66 ;
+	color: green;
+	padding: 10px;
+	display: inline-block;
+	text-decoration: none;
+	border: solid 1px black;	
+}
+
+a.novo:hover {
+	background-color: #ffff09 ;
+}
+
+i {
+	font-size: 20px;
+}
+
+i.delete {
+	color: red;
+}
+
+i.edit {
+	color: blue;
+}
+
