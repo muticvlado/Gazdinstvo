@@ -12,7 +12,7 @@
 <body>
 <jsp:include page="include/header.jsp"></jsp:include>
 
-<h3>Dobrodosli</h3>
+<h3>Dobrodosli!</h3>
 <hr>
 <br>
 <a href="new-racun-form" class="novo">Novi racun</a>
